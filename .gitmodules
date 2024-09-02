@@ -1,6 +1,6 @@
-[submodule "library-front-end"]
-	path = library-front-end
-	url = https://github.com/Santho257/library-front-end
-[submodule "library-management-system"]
-	path = library-management-system
-	url = https://github.com/Santho257/library-management-system
+; [submodule "library-front-end"]
+; 	path = library-front-end
+; 	url = https://github.com/Santho257/library-front-end
+; [submodule "library-management-system"]
+; 	path = library-management-system
+; 	url = https://github.com/Santho257/library-management-sys
